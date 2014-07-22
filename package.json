@@ -1,0 +1,28 @@
+{
+  "name": "root-domain",
+  "version": "0.0.0",
+  "description": "returns the root domain of any domain you give it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jcrugzz/root-domain.git"
+  },
+  "keywords": [
+    "root-domain",
+    "parse-domain",
+    "domain",
+    "tld"
+  ],
+  "author": "Jarrett Cruger <jcrugzz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcrugzz/root-domain/issues"
+  },
+  "homepage": "https://github.com/jcrugzz/root-domain",
+  "dependencies": {
+    "parse-domain": "~0.1.2"
+  }
+}
